@@ -7,5 +7,5 @@ int main()
   {
     printf("Hello Holberton\n");
   }
-  return0;
+  return 0;
 }
